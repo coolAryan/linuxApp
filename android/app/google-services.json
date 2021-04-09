@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487795523835",
+    "project_id": "linux-dc7cf",
+    "storage_bucket": "linux-dc7cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487795523835:android:289d7c145092f6f0b6305e",
+        "android_client_info": {
+          "package_name": "com.linusx.redlinux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487795523835-rj1013nfguj2pf38a7s55f0sv84lcib0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6a-QFaKxRGCeNPTZYPTqTvEPQEx5jXNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487795523835-rj1013nfguj2pf38a7s55f0sv84lcib0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
